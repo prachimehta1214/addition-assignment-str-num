@@ -32,7 +32,7 @@ ___
 
 ## Practice Points:
 
-input += "1"; // when input is a number
-%
-strange: same output, even with top line uncommented
+input += "1"; // when input is a number  
+%  
+strange: same output, even with top line uncommented  
 
