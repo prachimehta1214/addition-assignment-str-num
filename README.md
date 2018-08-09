@@ -35,4 +35,5 @@ ___
 input += "1"; // when input is a number  
 %  
 strange: same output, even with top line uncommented  
+* https://goo.gl/auvsed
 
